@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="MacVim" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/gvim" />
+      <option name="PARAMETERS" value="$FileRelativePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

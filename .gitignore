@@ -1,6 +1,12 @@
 disabled_plugins.txt
+disabled_update.txt
 idea.jdk
+port
 port.lock
+
+consoles/.history
+
+migration/
 
 options/cachedDictionary.xml
 options/debugger.renderers.xml
@@ -25,6 +31,7 @@ options/scala_config.xml
 options/statistics.application.usages.xml
 options/stubIndex.xml
 options/ui.lnf.xml
+options/updates.xml
 options/usage.statistics.xml
 options/usageView.xml
 options/vim_settings.xml

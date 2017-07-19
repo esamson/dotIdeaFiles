@@ -1,3 +1,15 @@
 <code_scheme name="Default">
   <option name="RIGHT_MARGIN" value="80" />
+  <ScalaCodeStyleSettings>
+    <option name="USE_ALTERNATE_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+    <option name="MULTI_LINE_QUOTES_ON_NEW_LINE" value="false" />
+    <option name="KEEP_MULTI_LINE_QUOTES" value="false" />
+    <option name="MULTI_LINE_STRING_MARGIN_INDENT" value="4" />
+    <option name="PROCESS_MARGIN_ON_COPY_PASTE" value="false" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
