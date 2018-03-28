@@ -28,7 +28,7 @@ options/recentProjects.xml
 options/runner.layout.xml
 options/scala.xml
 options/scala_config.xml
-options/statistics.application.usages.xml
+options/statistics.*
 options/stubIndex.xml
 options/ui.lnf.xml
 options/updates.xml

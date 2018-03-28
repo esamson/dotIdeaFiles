@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Scalafmt" displayType="NONE" />
+  </component>
+</application>
